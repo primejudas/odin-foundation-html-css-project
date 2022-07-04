@@ -1,5 +1,7 @@
 # Odin Project Foundation Course HTML/CSS Final Project
 
+![alt text](demo.png)
+
 ### Technologies Used
 
 - HTML
@@ -15,4 +17,4 @@
 ### Demo
 
 Visit the link to view the site
-[title](https://primejudas.github.io/odin-foundation-html-css-project/)
+[here](https://primejudas.github.io/odin-foundation-html-css-project/)
